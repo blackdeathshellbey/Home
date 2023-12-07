@@ -1,0 +1,15 @@
+
+mas house_building {
+
+   agent giacomo
+
+   agent companyA
+   agent companyB
+   agent companyC {
+      instances: 5
+   }
+   agent companyD {
+      instances: 13
+   }
+   agent companyE
+}
